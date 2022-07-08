@@ -1,0 +1,64 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Kelompok1.biodatasiswa"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:allowBackup="true"
+12-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] C:\Users\Wirayudha\.gradle\caches\transforms-2\files-2.1\e9dab9c67c1ee3668e0bbf86c6d8cbd8\core-1.1.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher_foreground"
+15-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:7:9-54
+16        android:label="@string/app_name"
+16-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_foreground"
+17-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:9:9-59
+18        android:supportsRtl="true"
+18-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:11:9-40
+21        <activity
+21-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:12:9-21:20
+22            android:name="com.Kelompok1.biodatasiswa.activities.MainActivity"
+22-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:13:13-78
+23            android:label="@string/app_name"
+23-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:14:13-45
+24            android:theme="@style/AppTheme.NoActionBar" >
+24-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:15:13-56
+25            <intent-filter>
+25-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:17:17-69
+26-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:19:17-77
+28-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.Kelompok1.biodatasiswa.activities.TambahKelasActivity" />
+31-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:22:9-23:88
+31-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:23:13-85
+32        <activity android:name="com.Kelompok1.biodatasiswa.activities.UpdateKelasActivity" />
+32-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:24:9-25:88
+32-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:25:13-85
+33        <activity android:name="com.Kelompok1.biodatasiswa.activities.ListSiswaActivity" />
+33-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:26:9-27:86
+33-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:27:13-83
+34        <activity android:name="com.Kelompok1.biodatasiswa.activities.TambahSiswaActivity" />
+34-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:28:9-94
+34-->C:\Users\Wirayudha\BiodataRoomDB-master\BiodataSiswa\app\src\main\AndroidManifest.xml:28:19-91
+35    </application>
+36
+37</manifest>
