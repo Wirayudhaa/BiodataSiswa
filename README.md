@@ -7,6 +7,7 @@ Biodata Siswa modified from
 - Isham Rofid Misbahuddin
 - Muhammad Wirayudha
 - Mutiara Diva Sakinah 
+- Jossie 
 
 
 ## Requirement
