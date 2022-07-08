@@ -7,12 +7,9 @@ Temperature conversion app ( Celsius, Fahrenheit, Reamur, K ) modified from http
 
 
 ## Member Of Team 6
+- Isham Rofid Misbahuddin
+- Muhammad Wirayudha
 
- - As Syifa Nurul Fitri Ubaidillah
- - Dimas Pratomo Mukti
- - Fadly Putra Lugina
- - Muhammad Fadhlan Aqila
- - Nazwa Septya Salsabilla
 
 ## Requirement
 
@@ -41,7 +38,9 @@ Select the directory of KonversiSuhu
 ## App View
 
 ### Splash Screen
-![image](https://user-images.githubusercontent.com/60656929/177327284-e3f76830-b4d4-4851-bd1c-37594400d541.png)
+paste ke sini
+![image](https://user-images.githubusercontent.com/108913354/177912027-fa8b01f5-be07-4312-bf0c-b805bf0bd412.png)
+
 
 ### Main View
 ![image](https://user-images.githubusercontent.com/60656929/177327378-83795515-55fd-4000-b99a-a021ef6850d8.png)
