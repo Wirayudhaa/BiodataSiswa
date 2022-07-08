@@ -6,8 +6,8 @@ Biodata Siswa modified from
 ## Member of Kelompok 1
 - Isham Rofid Misbahuddin
 - Muhammad Wirayudha
-- Mutiara Diva Sakinah 
-- Jossie 
+- Emiliano Jossie Verrell
+- Mutiara Diva Sakinah  
 
 
 ## Requirement
