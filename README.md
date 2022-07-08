@@ -1,11 +1,12 @@
 
-# Konversi Suhu
+# Biodata Siswa
 
 Biodata Siswa modified from (https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Biodata-dengan-Database-Room.html)
 
 ## Member Of Team 6
 - Isham Rofid Misbahuddin
 - Muhammad Wirayudha
+- Mutiara Diva Sakinah ( titip temen gua wir )
 
 
 ## Requirement
@@ -35,9 +36,11 @@ Select the directory of BiodataSiswa
 ## App View
 
 ### Main View
-![image](https://user-images.githubusercontent.com/60656929/177327378-83795515-55fd-4000-b99a-a021ef6850d8.png)
+![image](https://user-images.githubusercontent.com/108913354/178022507-3fba429b-fcd9-4e92-bceb-d0d8b1720b5c.png)
+![image](https://user-images.githubusercontent.com/108913354/178022699-f291d024-a099-46f8-80ae-50597e73ff72.png)
+
 
 
 ## Demo App
-![app](https://user-images.githubusercontent.com/60656929/177327653-a3e88e86-c64b-4f4c-bf73-6212f87081b3.gif)
+![BiodataSiswa](https://user-images.githubusercontent.com/108913354/178021464-78ae7643-5e5a-4102-8929-8ab31b5e8db0.gif)
 
