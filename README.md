@@ -17,7 +17,7 @@ Temperature conversion app ( Celsius, Fahrenheit, Reamur, K ) modified from http
 ## Requirement
 
 - minSDKVersion >= 21
-- Gradle version 3.5.3
+- Gradle version 3.5.3 
 - JDK >= 8 
 
 
@@ -26,7 +26,7 @@ Temperature conversion app ( Celsius, Fahrenheit, Reamur, K ) modified from http
   Open command line or terminal
 
 ```
-git clone https://https://github.com/Team-6-PBO/KonversiSuhu.git 
+git clone https://github.com/Wirayudhaa/BiodataSiswa.git
 ```
   Open Android Studio 
 ```
