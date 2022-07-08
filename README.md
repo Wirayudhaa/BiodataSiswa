@@ -1,7 +1,8 @@
 
 # Biodata Siswa
 
-Biodata Siswa modified from (https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Biodata-dengan-Database-Room.html)
+Biodata Siswa modified from 
+(https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Biodata-dengan-Database-Room.html)
 
 ## Kelompok BiodataSiswa
 - Isham Rofid Misbahuddin
