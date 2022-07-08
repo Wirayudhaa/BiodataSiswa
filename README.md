@@ -1,10 +1,9 @@
-
 # Biodata Siswa
 
 Biodata Siswa modified from 
 (https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Biodata-dengan-Database-Room.html)
 
-## Kelompok BiodataSiswa
+## Member of Kelompok 1
 - Isham Rofid Misbahuddin
 - Muhammad Wirayudha
 - Mutiara Diva Sakinah 
