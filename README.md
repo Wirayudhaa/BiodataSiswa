@@ -43,7 +43,6 @@ Select the directory of BiodataSiswa
 
 
 
-
 ## Demo App
-![BiodataSiswa](https://user-images.githubusercontent.com/108913354/178021464-78ae7643-5e5a-4102-8929-8ab31b5e8db0.gif)
+![BiodataSiswa (2)](https://user-images.githubusercontent.com/108913354/178107373-429badf9-612e-425e-841a-f698a31628fb.gif)
 
