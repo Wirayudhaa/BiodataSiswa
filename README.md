@@ -3,10 +3,12 @@
 Biodata Siswa modified from 
 (https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Biodata-dengan-Database-Room.html)
 
-## Member of Kelompok 1
+## Member Kelompok 1
 - Isham Rofid Misbahuddin
 - Muhammad Wirayudha
+- Ginung Sisharyono
 - Emiliano Jossie Verrell
+- Seto Dwi Nugroho
 - Mutiara Diva Sakinah  
 
 
@@ -32,6 +34,8 @@ You can click and go to File in menu bar Android Studio after that you can click
 Select the directory of BiodataSiswa
 ```
 
+## SplashScreen
+![image](https://user-images.githubusercontent.com/108913354/178107657-ba426bdf-4039-4a51-8a74-4eb9695ebd39.png)
 
 
 ## App View
