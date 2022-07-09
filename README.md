@@ -8,8 +8,8 @@ Biodata Siswa modified from
 - Ginung Sisharyono
 - Isham Rofid Misbahuddin
 - Muhammad Wirayudha
+- M.R Fadhlurrahman Erwin
 - Mutiara Diva Sakinah  
-- Raihan
 - Seto Dwi Nugroho 
 
 
