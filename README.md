@@ -4,12 +4,13 @@ Biodata Siswa modified from
 (https://rivaldi48.blogspot.com/2020/05/Tutorial-Membuat-Biodata-dengan-Database-Room.html)
 
 ## Member Kelompok 1
+- Emiliano Jossie Verrell
+- Ginung Sisharyono
 - Isham Rofid Misbahuddin
 - Muhammad Wirayudha
-- Ginung Sisharyono
-- Emiliano Jossie Verrell
-- Seto Dwi Nugroho
 - Mutiara Diva Sakinah  
+- Raihan
+- Seto Dwi Nugroho 
 
 
 ## Requirement
