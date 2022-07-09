@@ -42,8 +42,8 @@ Select the directory of BiodataSiswa
 
 ### Main View
 ![image](https://user-images.githubusercontent.com/108913354/178022507-3fba429b-fcd9-4e92-bceb-d0d8b1720b5c.png)<br>
-![image](https://user-images.githubusercontent.com/108913354/178022699-f291d024-a099-46f8-80ae-50597e73ff72.png)<br>
-![image](https://user-images.githubusercontent.com/108913354/178023333-051ec31b-0590-445f-b2fa-d4cb289f0766.png)
+![image](https://user-images.githubusercontent.com/108913354/178107781-b0d4e22a-7fbb-4cd6-8142-6cd9b2d6903d.png)
+![image](https://user-images.githubusercontent.com/108913354/178107798-00076177-83b0-4de6-a67b-c473d41f2b0a.png)
 
 
 
